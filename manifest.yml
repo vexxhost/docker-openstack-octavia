@@ -1,6 +1,8 @@
 wallaby:
-  sha: b7e3c26c81f6931ac3ab530eb6fd869299d76216
+  sha: 7df2b04a348be311116ed23cf8dc4df2d5a18101
 xena:
-  sha: fa7cd7fbb326d80640567a9347326b229efa831c
+  sha: f4f1cd27946efb0a5af9107e76b261fc9b9d5718
 yoga:
-  sha: 71bae9c2c0c8b1144eb6b7d626d57f02cf5beea8
+  sha: 22cb8112be2020b06ac37f68a8af588ea30cc9ef
+zed:
+  sha: 4f2a019db769ed3fd95e3cd2c0fa69458cf77187
