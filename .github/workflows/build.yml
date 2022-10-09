@@ -43,6 +43,7 @@ jobs:
         build-args: |-
           RELEASE=${{ matrix.release }}
           PROJECT=octavia
+          PROJECT_REPO=https://github.com/openstack/octavia
           PROJECT_REF=${{ env.PROJECT_REF }}
           EXTRAS=
           PROFILES=
